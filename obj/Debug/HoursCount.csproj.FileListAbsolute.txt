@@ -1,0 +1,9 @@
+C:\Users\akclark\Source\Workspaces\Testbed\HoursCount\bin\Debug\HoursCount.exe.config
+C:\Users\akclark\Source\Workspaces\Testbed\HoursCount\bin\Debug\HoursCount.exe
+C:\Users\akclark\Source\Workspaces\Testbed\HoursCount\bin\Debug\HoursCount.pdb
+C:\Users\akclark\Source\Workspaces\Testbed\HoursCount\obj\Debug\HoursCount.csprojResolveAssemblyReference.cache
+C:\Users\akclark\Source\Workspaces\Testbed\HoursCount\obj\Debug\HoursCount.HoursCount.resources
+C:\Users\akclark\Source\Workspaces\Testbed\HoursCount\obj\Debug\HoursCount.Properties.Resources.resources
+C:\Users\akclark\Source\Workspaces\Testbed\HoursCount\obj\Debug\HoursCount.csproj.GenerateResource.Cache
+C:\Users\akclark\Source\Workspaces\Testbed\HoursCount\obj\Debug\HoursCount.exe
+C:\Users\akclark\Source\Workspaces\Testbed\HoursCount\obj\Debug\HoursCount.pdb
